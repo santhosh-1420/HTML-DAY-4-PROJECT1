@@ -1,0 +1,29 @@
+
+#flex-container{
+    display: flex;
+}
+#main1{
+    flex: 50%;
+    background-color:#f8a81a;
+    text-shadow: 400px;
+    text-align: center;
+}
+#main2{
+    flex:50%;
+    background-color:#10679b;
+    width: 300px;
+    text-align: center;
+
+}
+h1{
+    color: #10679b;
+    margin-bottom: 40px;
+    width:100PX;
+
+}
+h2{
+    color:#f8a81a;
+}
+h4{
+    color:#f8a81a;
+}
